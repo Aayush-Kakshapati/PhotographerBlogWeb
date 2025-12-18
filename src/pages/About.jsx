@@ -6,7 +6,7 @@ export default function About() {
       {/* Photo */}
       <div className="w-full flex justify-center mb-10">
         <img
-          src="/about/profile.jpg" // replace with your image
+          src="/about/profile.jpg" // need to ask for picture
           alt="Portrait"
           className="w-48 h-48 object-cover rounded-xl shadow-md"
         />
